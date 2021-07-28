@@ -1,0 +1,4 @@
+name: /home/carlos/Documents/dev/languages/python/python-workshop/pyWorkshop/mlbookEnv
+channels:
+  - defaults
+prefix: /home/carlos/Documents/dev/languages/python/python-workshop/pyWorkshop/mlbookEnv
